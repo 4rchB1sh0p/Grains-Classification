@@ -14,11 +14,12 @@ In this application, grains of rice lying on a wooden table are to be counted. O
 chickpeas that are also present in the image, should not be counted.
 An algorithm developed using k-means clustering automatically counts the rice grains.
 
-## Input Image :
-![](https://github.com/4rchB1sh0p/Two-Wheeled-Robot/blob/main/images/mainBoard.JPG)
-
 ## Output image with classification
 ![](https://github.com/4rchB1sh0p/Two-Wheeled-Robot/blob/main/images/mainBoard.JPG)
+
+## Input Image :
+![](https://github.com/4rchB1sh0p/Grains-Classification/blob/main/images/rice1sol.jpg)
+
 
 # Part-2
 In this part the image is with chickpeas as well as rice grains. The number of the rice grains is
@@ -29,8 +30,9 @@ The following steps of image processing before segmentation and classification a
 - remove the non-uniform illumination
 - remove the structure of the wooden table
 
-## Input Image :
-![](https://github.com/4rchB1sh0p/Two-Wheeled-Robot/blob/main/images/mainBoard.JPG)
-
 ## Output image with classification
 ![](https://github.com/4rchB1sh0p/Two-Wheeled-Robot/blob/main/images/mainBoard.JPG)
+
+## Input Image :
+![](https://github.com/4rchB1sh0p/Grains-Classification/blob/main/images/rice2sol.jpg)
+
